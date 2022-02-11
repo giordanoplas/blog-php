@@ -21,7 +21,7 @@
 
 ### - Tecnologías y herramientas...
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/php.jpg" alt="php" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mysql.jpg" alt="mysql" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px">
