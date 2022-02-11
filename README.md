@@ -14,7 +14,7 @@
 <br />
 <img align="right" height="270px" width="500px" alt="GIF" src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/techanimation4.gif" />
 <p align="center">
-  <h3> Blog personal hecho en PHP.</h3>
+  <h3>Blog personal</h3>
 </p>
 
  - Este es un blog personal donde puedes crear, modificar, eliminar los posts. Además este se conecta a una base de datos mysql.
