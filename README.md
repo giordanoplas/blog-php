@@ -22,14 +22,12 @@
 ### - Tecnologías y herramientas...
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/php.jpg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mysql.jpg" alt="mysql" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/css.jpg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/bootstrap.jpg" alt="bootstrap" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
